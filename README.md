@@ -15,7 +15,7 @@
 
 - **Language & Framework**: Java21, Spring Boot
 - **Database**: MySQL
-- **Infrastructure**: Docker
+- **Infrastructure**: Docker , AWS EC2, GitHub Actions CI/CD
 - **Document**: Swagger
 
 #### ERD
