@@ -15,7 +15,7 @@
 
 ### Frontend
 
-- **Language & Framework**: React,
+- **Language & Framework**: React
 - **Hosting**: Netlify
 
 ### Collaboration
